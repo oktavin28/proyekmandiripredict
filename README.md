@@ -1,1 +1,1 @@
-# proyekmandiripredict
+# proyek mandiri
